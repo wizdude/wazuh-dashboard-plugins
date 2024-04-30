@@ -301,7 +301,7 @@ export const ScaScan = compose(
                           },
                         )}
                       >
-                        <h2>SCA: Lastest scans</h2>
+                        <h2>SCA: Latest scans</h2>
                       </EuiLink>
                     </EuiTitle>
                   </RedirectAppLinks>
